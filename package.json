@@ -1,0 +1,25 @@
+{
+  "name": "oop-class-lab",
+  "version": "1.0.0",
+  "description": "OOP-class-lab using Animal.js",
+  "main": "app/arigeo.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecj4real/ari-geo-lab.git"
+  },
+  "author": "Emegbue Chukwudi John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://https://github.com/ecj4real/ari-geo-lab/issues"
+  },
+  "homepage": "https://github.com/ecj4real/ari-geo-lab#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
